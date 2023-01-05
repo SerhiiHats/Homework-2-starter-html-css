@@ -1,0 +1,22 @@
+p{
+    height: 20px;
+    background: lightgray;
+    padding:  20px;
+    color: white;
+}
+
+.block_1{
+    background: lightgreen;
+}
+
+.block_2{
+    background: blue;
+}
+
+.block_3{
+    background: gold;
+}
+
+.block_4{
+    background: red;
+}

@@ -1,0 +1,15 @@
+.block_1{
+    height: 180px;
+    background: lightgrey;
+    padding: 20px;
+}
+
+button{
+    width: 100px;
+    height: 50px;
+    color: white;
+    background: grey;
+    font-weight: bolder;
+    border: none;
+    /*border: 0px solid black;*/
+}

@@ -1,0 +1,126 @@
+.main_social_panel{
+   width: 64px;
+    height: 256px;
+    /*background: deepskyblue;*/
+    padding: 5px;
+
+}
+
+.block_social_panel_inline{
+    width: 268px;
+    height: 64px;
+    /*background: lightgray;*/
+    padding: 5px;
+}
+
+.facebook-panel-inline{
+    width: 32px;
+    height: 32px;
+    background: blue;
+    padding: 16px;
+    display: inline-block;
+}
+
+.instagram-panel-inline{
+    width: 32px;
+    height: 32px;
+    background: pink;
+    padding: 16px;
+    display: inline-block;
+}
+
+.twitter-panel-inline{
+    width: 32px;
+    height: 32px;
+    background: aqua;
+    padding: 16px;
+    display: inline-block;
+}
+
+.youtube-panel-inline{
+    width: 32px;
+    height: 32px;
+    background: red;
+    padding: 16px;
+    display: inline-block;
+}
+
+.facebook-panel{
+    width: 32px;
+    height: 32px;
+    background: blue;
+    padding: 16px;
+}
+
+.instagram-panel{
+    width: 32px;
+    height: 32px;
+    background: pink;
+    padding: 16px;
+}
+
+.twitter-panel{
+    width: 32px;
+    height: 32px;
+    background: aqua;
+    padding: 16px;
+}
+
+.youtube-panel{
+    width: 32px;
+    height: 32px;
+    background: red;
+    padding: 16px;
+}
+
+.social_panel {
+    height: 32px;
+    background: grey;
+    padding: 10px 10px;
+}
+
+.soc-panel {
+    height: 23px;
+    width: 300px;
+    background: cornflowerblue;
+    font: 1.2em "Fira Sans", sans-serif;
+    text-align: center;
+
+}
+
+.soc-panel-child {
+    height: 320px;
+    /*width: 300px;*/
+    background: lightgray;
+    padding-left:  15px;
+
+
+}
+
+.faceb-panel {
+    height: 41px;
+    width: 41px;
+    background: blue;
+    padding: 8px 1px 1px 8px;
+}
+
+.insta-panel {
+    height: 41px;
+    width: 40px;
+    background: pink;
+    padding: 8px 1px 1px 9px;
+}
+
+.twitt-panel {
+    height: 41px;
+    width: 40px;
+    background: aqua;
+    padding: 8px 1px 1px 9px;
+}
+
+.youtub-panel {
+    height: 41px;
+    width: 40px;
+    background: red;
+    padding: 8px 1px 1px 9px;
+}

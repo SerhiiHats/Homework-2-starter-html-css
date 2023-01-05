@@ -1,0 +1,17 @@
+body {
+
+}
+
+.level_html {
+    background: green;
+    color: white;
+}
+
+.level_css {
+    background: cyan;
+}
+
+.level_js {
+    background: gold;
+    color: red;
+}

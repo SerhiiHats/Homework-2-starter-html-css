@@ -1,0 +1,31 @@
+p{
+    height: 20px;
+    background: lightgray;
+    padding:  20px;
+    color: black;
+    /*border: black solid 4px;*/
+    /* border-top: 4px solid red; */
+    /* border-right: 4px solid green;*/
+    /* border-bottom: 4px solid blue; */
+     border-left: black solid 4px;
+}
+
+.block_1{
+    background: lightgreen;
+    border-left: green solid 4px;
+}
+
+.block_2{
+    background: aqua;
+    border-left: blue solid 4px;
+}
+
+.block_3{
+    background: yellow;
+    border-left: gold solid 4px;
+}
+
+.block_4{
+    background: pink;
+    border-left: red solid 4px;
+}
